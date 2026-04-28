@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+venv/
+logs/*.log
+memory/vault.json
+*.wav
+.DS_Store
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.swp
+*.swo
